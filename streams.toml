@@ -1,0 +1,29 @@
+[[streams]]
+city   = "Varied"
+label  = "Woke"
+link   = "https://twitch.tv/woke"
+
+[[streams]]
+kind  = "web"
+label = "zombocom"
+link  = "https://html5zombo.com"
+
+[[streams]]
+kind  = "video"
+label = "HasanAbi"
+link  = "https://www.twitch.tv/hasanabi"
+
+[[streams]]
+kind  = "video"
+label = "LivenowMedia"
+link  = "https://www.twitch.tv/livenowmedia"
+
+[[streams]]
+kind  = "video"
+label = "ABC News"
+link  = "https://www.youtube.com/watch?v=w_Ma8oQLmSM"
+
+[[streams]]
+kind  = "video"
+label = "Fox News"
+link  = "https://www.youtube.com/watch?v=MmrGeWxd87Y"

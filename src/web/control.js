@@ -1327,11 +1327,7 @@ function AuthTokenLine({ id, role, name, onDelete }) {
 function Facts() {
   return (
     <StyledFacts>
-      <BLM>Black Lives Matter.</BLM>
-      <TRM>
-        Trans rights are <em>human rights.</em>
-      </TRM>
-      <TIN>Technology is not neutral.</TIN>
+
     </StyledFacts>
   )
 }
